@@ -1,0 +1,10 @@
+.usersText{
+    margin: 0 auto ;
+    width: 900px;
+    height: 100px;
+    border: 10px solid teal;
+}
+
+.usersText > p {
+    font-size: 2rem;
+}

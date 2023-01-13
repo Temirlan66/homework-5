@@ -1,0 +1,10 @@
+.form{
+    padding-left:250px;
+    width: 900px;
+    height: 350px;
+    margin: 0 auto;
+    padding-top: 30px;
+    box-shadow: inset;
+    border: 10px solid teal;
+}
+
