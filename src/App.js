@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './App.css';
+import "./App.css";
 import NewUser from './components/newUser/NewUser';
 import Users from './components/users/Users';
 
@@ -7,18 +7,18 @@ function App() {
 
   const [users,setUsers] = useState([
     {
-      userName:"Bayaman",
+      userName:"Kurasaki",
       userAge:90,
 
     },
 
     {
-      userName:"Nurbolot",
+      userName:"Accerman",
       userAge:24,
       
     },
     {
-      userName:"Zhumabek",
+      userName:"Eren",
       userAge:22,
       
     }
